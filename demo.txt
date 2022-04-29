@@ -1,1 +1,1 @@
-Hello all new to git
+Done pushing of new file into central repository
