@@ -1,1 +1,8 @@
-Done pushing of new file into central repository
+merge conflict1
+merge conflict1
+merge conflict1
+merge conflict1
+
+
+merge conflict1
+merge conflict1
